@@ -1,6 +1,6 @@
 package com.books.spring5webapp.spring5webapp;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest

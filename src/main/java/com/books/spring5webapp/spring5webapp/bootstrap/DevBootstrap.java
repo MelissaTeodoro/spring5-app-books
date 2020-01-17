@@ -32,6 +32,7 @@ public class DevBootstrap implements ApplicationListener<ContextRefreshedEvent> 
 
         Publisher publisher = new Publisher();
         publisher.setName("foo");
+        publisher.setAddress("Rua das flores");
 
         publisherRepository.save(publisher);
 
